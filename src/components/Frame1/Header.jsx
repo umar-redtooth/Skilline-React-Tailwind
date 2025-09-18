@@ -8,11 +8,11 @@ export default function Header() {
       
       <div className="flex gap-11">
         
-        <ul className="list-non flex gap-11 font-[Poppins] font-normal text-[22px] tracking-[2%] mt-3.5">
-        <li className="">Home</li>
-        <li className="">Careers</li>
-        <li className="">Blog</li>
-        <li className="">About US</li>
+        <ul className="list-non flex gap-11 font-[Poppins] text-[#252641] font-normal text-[22px] tracking-[2%] mt-3.5">
+        <li className="hover:text-[#F48C06]">Home</li>
+        <li className="hover:text-[#F48C06]">Careers</li>
+        <li className="hover:text-[#F48C06]">Blog</li>
+        <li className="hover:text-[#F48C06]">About US</li>
         </ul>
         
         <div className="flex gap-6 font-[Poppins] font-normal text-[22px]">
